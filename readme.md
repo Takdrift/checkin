@@ -1,6 +1,6 @@
 # Action到期手动更新
 
-手动修改一下readme.md文件即可
+手动修改一下readme.md文件即可？ 域名后缀改为.cloud，需要重新设置cookie
 
 # Checkin
 
