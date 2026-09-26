@@ -4,7 +4,7 @@
 
 # Checkin
 
-GitHub Actions 实现 [GLaDOS][glados] 自动签到
+GitHub Actions 实现 [GLaDOS][glados] 自动签到 （**Action显示的时间跟实际签到时间会不同，Action会排队，一般有10-30 mins delay**）
 
 ([GLaDOS][glados] 可用邀请码: `UERQ3-7VSDT-OL4Y4-57UWT`, 双方都有奖励天数)
 
